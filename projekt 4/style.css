@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    height: 100vh;
+}
+
+p{
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    font-size: 40px;
+    font-family: arial;
+    transform: translate(-50%, -50%);
+}

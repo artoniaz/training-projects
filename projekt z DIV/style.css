@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+}
+
+#newDivBtn {
+    background-color: blue;
+    height: 10vh;
+    width: 20vw;
+    border: 1px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+
+.newDiv {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+.circle{
+    border-radius: 50%;
+    border: 5px solid black;
+    background-color: white;
+    color: black;
+}
